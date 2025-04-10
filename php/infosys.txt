@@ -1,0 +1,9 @@
+itnb.my.id/infosys/insertuser.php?UserID=infosys&&UserName=Infosys&&UserPassword=abc123&&UserLevel=admin
+
+itnb.my.id/infosys/login.php?UserID=infosys&&UserPassword=abc123
+
+itnb.my.id/infosys/updateuser.php?UserID=infosys&&UserName=itnb&&UserPassword=123&&UserLevel=staff&&UserActive=0
+
+itnb.my.id/infosys/deleteuser.php?UserID=Infosys
+
+itnb.my.id/infosys/changepassword.php?UserID=infosys&&UserPassword=abc123&&UserNewPassword=123
